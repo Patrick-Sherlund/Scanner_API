@@ -113,7 +113,7 @@ namespace Scanner
         }
     }
 
-    public class test
+    public class Scanner_Example
     {
         //Base 32 Hexidecimal recognizes the these characters
         private string strBase32Hex = "0123456789ABCDEFGHIJKLMNOPQRSTUV";
